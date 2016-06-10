@@ -12,7 +12,7 @@
 </p>
 
 ## Install Guide
-* Download latest zip from repo `Releases` (http://steamcommunity.com/sharedfiles/filedetails/?id=277312748)
+* Download latest zip from repo `Releases` (https://github.com/Au1st3in/payday2-xboxone-controller-mod/releases)
 * Unzip `pd2-xboxone-controller.zip`
 * Move contained folder into the Payday 2 install directory `assets\mod_overrides\xbox_one_controller_texture\guis\textures`
 
