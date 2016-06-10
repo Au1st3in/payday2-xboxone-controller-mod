@@ -11,8 +11,10 @@
   <img src="https://github.com/Au1st3in/payday2-xboxone-controller-mod/blob/master/img/pd2.png?raw=true" width="50%" height="50%" />
 </p>
 
-## Install
-* 
+## Install Guide
+* Download latest zip from repo `Releases` (http://steamcommunity.com/sharedfiles/filedetails/?id=277312748)
+* Unzip `pd2-xboxone-controller.zip`
+* Move contained folder into the Payday 2 install directory `assets\mod_overrides\xbox_one_controller_texture\guis\textures`
 
 ## Tools
 * Adobe Photoshop CC (https://www.adobe.com/products/photoshop.html)
